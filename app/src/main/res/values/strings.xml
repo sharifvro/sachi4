@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sachi4</string>
+    <string name="please_press_back_again_to_exit">Please back again to Exit</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="ligon">Sign In</string>
+    <string name="start">GOT IT</string>
+
+
+</resources>

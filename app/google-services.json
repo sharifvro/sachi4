@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840163138942",
+    "project_id": "sachi4-2c4fb",
+    "storage_bucket": "sachi4-2c4fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840163138942:android:696cfbf653b53b1b8ba72f",
+        "android_client_info": {
+          "package_name": "com.example.sachi4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840163138942-j8aof64kcem79diba0du6brlr8fk5kum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5gg33kMjyNqA2UosEZg2lGUfF0wqLmWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840163138942-j8aof64kcem79diba0du6brlr8fk5kum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
